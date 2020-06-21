@@ -1,0 +1,4 @@
+O que falta?
+- Simulações dinâmicas da parte 2 (da parte 1 também, caso eu tenha implementado incorretamente);
+- Relatório: Resumo inicial, materiais e métodos, conclusão.
+- Possívelmente a implementação extra, mas tanto faz.
